@@ -1,3 +1,4 @@
+ <img src="https://github.com/YashGulati-TLP/YashGulati-TLP/blob/main/Dark%20Teal%20Geometric%20Technology%20LinkedIn%20Banner.gif" alt="Animated GIF">
 <h1 align="center">Hi 😁, I'm Yash Gulati</h1>
 <h3 align="center">A diligent student specializing in Artificial Intelligence and Machine Learning (AIML), possessing versatile skills in programming languages such as Java, Python, and JavaScript. Demonstrated proficiency in MEAN and MERN stack development, as well as extensive experience with MySQL and MongoDB databases.</h3>
 <img align="">
